@@ -8,6 +8,10 @@ twitter_username:
 github_username: yongsingyou
 theme:
 
+plugins:
+  - jekyll-remote-theme
+remote_theme: benbalter/retlab
+
 # Build settings
 markdown: kramdown
 permalink: pretty
