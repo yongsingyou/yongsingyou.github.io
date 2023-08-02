@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://yongsingyou.github.io"
 twitter_username:
 github_username: yongsingyou
-theme: just-the-docs
+theme:
 
 # Build settings
 markdown: kramdown
