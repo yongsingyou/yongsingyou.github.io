@@ -6,11 +6,7 @@ baseurl: ""
 url: "https://yongsingyou.github.io"
 twitter_username:
 github_username: yongsingyou
-theme:
-
-plugins:
-  - jekyll-remote-theme
-remote_theme: benbalter/retlab
+theme: minima
 
 # Build settings
 markdown: kramdown
